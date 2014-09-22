@@ -2,6 +2,8 @@
 
 A Hubot script that manage TODOs.
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140922/20140922223214.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-todo.git
